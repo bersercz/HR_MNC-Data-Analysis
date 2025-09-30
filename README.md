@@ -31,3 +31,6 @@
 # Conclusion
 
 ### The analysis reveals valuable insights into workforce structure, salary dynamics, attrition patterns, and performance trends within the MNC. These findings can help HR teams optimize hiring strategies, address retention challenges, and align compensation policies with employee performance and experience.
+
+#____________________________________________________________________________________________________________________________________________________________________
+## By:- Devansh Singh Tomar
